@@ -1,0 +1,58 @@
+
+h1{
+font-size: 80px;
+color: green;
+font-family: 'Text Me One', sans-serif;
+
+
+}
+h2{
+	font-size: 60px;
+	color: blue;
+	font-family: 'Roboto Slab', serif;
+	margin-top: 30px;
+}
+
+h3{
+font-size: 50px;
+color: red;
+font-family: 'Text Me One', sans-serif;
+margin-top: 20px;
+}
+
+img{
+	width: 250px;
+	height: 250px;
+	border-radius: 70%; 
+
+}
+body { background-color: grey; }
+body p{ font-family: 'Noto Sans SC', sans-serif; }
+body a{ text-decoration: none; }
+body {text-align: center;}
+ul {list-style: none;}
+
+.abcd {
+	background-color: white;
+	box-shadow: 10px 10px 30px rgb(220,220,220);
+	width: 800px;
+	margin: 20px auto;
+	padding: 10px 40px;
+}
+
+.logo {
+	font-size: 30px;
+	color: grey;
+}
+	
+.button-purple {
+	background-color: purple;
+	border-radius: 3px;
+	padding: 8px 16px;
+	color: white;
+	font-family: 'Noto Sans SC', sans-serif;
+}
+
+.button-purple:hover { background-color: yellow; } 
+
+
